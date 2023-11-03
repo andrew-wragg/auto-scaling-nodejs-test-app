@@ -1,0 +1,9 @@
+{
+    "name": "auto-scaling-nodejs-test-app",
+    "version": "1.0.0",
+    "author": "andrew-wragg",
+    "dependencies": {
+      "express": "4.18.2"
+    }
+  }
+  
