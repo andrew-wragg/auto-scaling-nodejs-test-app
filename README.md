@@ -1,5 +1,7 @@
 # auto-scaling-nodejs-test-app
 
+From the following video https://youtu.be/lB3Ip0Yn-Zs?si=PCfQd6bTFDA8PwLq
+
 ## AWS setup
 
 ### Create Security Group
@@ -47,7 +49,7 @@
 - For default routing select Create a target group
 - Click next
 - Select desired, min and max capacity
-- Select traget tracking scaling policy
+- Select target tracking scaling policy
 - Leave it as Average CPU Utilization with target of 50%
 - Click next
 - Add notification email if required
