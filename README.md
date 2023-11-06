@@ -24,7 +24,7 @@ From the following video https://youtu.be/lB3Ip0Yn-Zs?si=PCfQd6bTFDA8PwLq
 - Create Launch Templates
 - Set name
 - Check Provide guidance
-- Select Amazon Linux 2 AMI
+- Select Amazon Linux 2023 AMI
 - Select t3a.nano or t2.micro (free tier) instance type
 - Select existing key pair or create one
 - Select existing security group
